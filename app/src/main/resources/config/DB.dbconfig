@@ -1,0 +1,8 @@
+{
+  "url": "jdbc:postgresql://localhost:5432/postgres",
+  "user": "postgres",
+  "password": "123456789",
+  "schemaPackage": "com.oldshensheep.schema",
+  "schemaName": "public",
+  "dbDdl": "schema.sql"
+}
